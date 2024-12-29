@@ -16,3 +16,4 @@ while True:
     print(event,values)
 window.close()
 
+asas
