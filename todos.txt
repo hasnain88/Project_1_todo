@@ -1,7 +1,9 @@
 Make Soup
-Clean the code
-Buy the Painting
-New Order
-We just made a default arg
+Clean the programBuy the Painting
+new orderWe just made a default arg
 Get the cat
-Buy Grocery
+Buy plansnew todo
+new todo
+lastly
+lastly
+ final
